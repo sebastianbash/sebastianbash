@@ -1,5 +1,3 @@
-<img src='images/sebastian-banner.jpg' alt="banner"></img>
-
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianbash&show_icons=true&theme=dark)](https://github.com/sebastianbash)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbash&layout=compact)](https://github.com/sebastianbash)
 
