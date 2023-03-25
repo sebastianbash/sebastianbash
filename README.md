@@ -1,9 +1,5 @@
-<p align="center">
-  <img src= "https://media1.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47v708kg2h9heplavjoyktg237zsc1c7y3h9soofhm&rid=giphy.gif&ct=g">
-</p>
-
 <h1 align="center">
-  Conversemos!💬
+  Bienvenido!💬
 </h1>
 
 <p align="center">
@@ -26,21 +22,25 @@
 ```yaml
 nombre: Sebastian Silva Agurto
 ubicación: Lima, Perú
-postulando_para: Front End Developer
+trabajando_como: Analista de Sistemas
 educación:
   [
-    "Entusiasta Desarrollador Web",
     "Estudiante de Ingeniería de Software",
+  ]
+perfil: 
+  [
+    "Apasionado Desarrollador Web Front-End",
+    "Desarrollador .NET",
   ]
 campos_de_interés:
   [
-    "Web Development",
-    "Mobile Development",
+    "Desarrollo Web",
+    "Desarrollo Mobile",
     "UI/UX",
   ]
-  
-enfocado_actualmente: ["Typescript, React Native"]
-objetivos_2022: ["Crear aplicaciones web rápidas y únicas, aprender al menos 2 nuevas tecnologías."]
+
+enfocado_actualmente: [".NET", "NextJS", "Typescript", "React Native"]
+objetivos_2023: ["Crear aplicaciones web rápidas y únicas, aprender al menos 2 nuevas tecnologías."]
 hobbies: ["Gaming", "Peliculas" "Lectura"]
 ```
   
